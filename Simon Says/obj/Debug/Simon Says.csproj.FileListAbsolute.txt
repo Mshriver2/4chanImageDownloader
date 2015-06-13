@@ -10,3 +10,6 @@ F:\Education\C#\Simon Says\Simon Says\obj\Debug\4chan Image Downloader.pdb
 F:\Education\C#\4chan\Simon Says\bin\Debug\4chan Image Downloader.exe.config
 F:\Education\C#\4chan\Simon Says\obj\Debug\4chan Image Downloader.exe
 F:\Education\C#\4chan\Simon Says\obj\Debug\4chan Image Downloader.pdb
+F:\Education\Git\4chanImageDownloader\Simon Says\bin\Debug\4chan Image Downloader.exe.config
+F:\Education\Git\4chanImageDownloader\Simon Says\obj\Debug\4chan Image Downloader.exe
+F:\Education\Git\4chanImageDownloader\Simon Says\obj\Debug\4chan Image Downloader.pdb
